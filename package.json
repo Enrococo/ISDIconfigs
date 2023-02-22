@@ -1,0 +1,25 @@
+{
+  "name": "w6-configs-demo",
+  "version": "1.0.0",
+  "description": "This is a project that includes custom default configs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enrococo/ISDIconfigs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Enrococo/ISDIconfigs/issues"
+  },
+  "homepage": "https://github.com/Enrococo/ISDIconfigs#readme",
+  "devDependencies": {
+    "husky": "^8.0.0",
+    "prettier": "2.8.4"
+  }
+}
